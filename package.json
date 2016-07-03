@@ -1,0 +1,23 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Star Wars Names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poonte/starwars-names.git"
+  },
+  "keywords": [],
+  "author": "poonte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poonte/starwars-names/issues"
+  },
+  "homepage": "https://github.com/poonte/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
